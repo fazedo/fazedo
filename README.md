@@ -10,4 +10,4 @@ I'm Fabio, a math professor, primarly interested in integral equations and numer
 - 🐧 I'm an enthusiast of free and open-source software; my distro is Linux Mint.
 - 📖 I'm also a Wikipedia enthusiast and editor since 2007; my username there is [Lechatjaune](https://pt.wikipedia.org/wiki/Usu%C3%A1rio:Lechatjaune).
 - 🔬 I am a carbon-based life form.
-- 📊 You can get more about me information at Wikidata, where I am just another ordinary number [Q70045652](https://www.wikidata.org/wiki/Q70045652).
+- 📊 You can get more information about me at Wikidata, where I am just another ordinary number [Q70045652](https://www.wikidata.org/wiki/Q70045652).
